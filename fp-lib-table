@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "GameBlaster")(type "KiCad")(uri "C:/Data/Projects/GameBlaster/GameBlaster.pretty")(options "")(descr ""))
+  (lib (name "SnarkBarker")(type "KiCad")(uri "C:/Data/Projects/SoundBlaster/SnarkBarker.pretty")(options "")(descr ""))
+)
